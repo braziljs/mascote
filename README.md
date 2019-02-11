@@ -14,6 +14,6 @@ Algumas premissas:
 - Tenha traços bem reconhecíveis (para uso em vetores, adesivos, etc)
 - Deve lembrar força, ser rápida(o) e ser bem vista(o) pelo público
 
-Utilizaremos as reações nos comentários na issue "Ajudenos a escolher um mascote" para tomar essa decisão junto dos nossos designers.  
+Utilizaremos as reações nos comentários na issue ["Ajude-nos a escolher um mascote"](https://github.com/braziljs/mascote/issues/1) para tomar essa decisão junto dos nossos designers.  
 
 Então, deixe uma sugestão nova, ou um comentário sobre as sugestões atuais...ou vote nas opções.
